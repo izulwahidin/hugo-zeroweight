@@ -1,5 +1,5 @@
 title = "zeroweight"
-baseURL = '/'
+baseURL = 'https://zeroweight.zone.id/'
 languageCode = 'en-us'
 
 enableEmoji = false
